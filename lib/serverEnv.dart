@@ -1,0 +1,1 @@
+String SERVER_IP = 'http://39.112.188.104';
